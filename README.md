@@ -1,8 +1,9 @@
 # Initia Node Kurulum Rehberi
 ## VPS özellikleri:
-| CPU  | 4  |
-| RAM  | 16  |
-| DISK  | 160 GB  |
+| CPU    | RAM    | Disk    |
+|---    |---    |---    |
+| 4    | 16    | 160 GB    |
+
 ---
 ## Kurulum rehberi
 ### 1. Gerekli paketleri yükleme
