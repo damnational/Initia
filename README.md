@@ -50,7 +50,9 @@ initiad config set client keyring-backend test
 ```
 
 ### 6. genesis.json indirme
-```wget https://initia.s3.ap-southeast-1.amazonaws.com/initiation-1/genesis.json -O $HOME/.initia/config/genesis.json```
+```
+wget https://initia.s3.ap-southeast-1.amazonaws.com/initiation-1/genesis.json -O $HOME/.initia/config/genesis.json
+```
 
 ### 7. Seed ve peer ekleme
 ```
